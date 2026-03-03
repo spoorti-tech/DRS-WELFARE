@@ -81,14 +81,7 @@ flowchart TD
 
 ---
 
-## 👥 Team Members
 
-| Name            | Contribution                                               |
-| --------------- | ---------------------------------------------------------- |
-| **Akhil Duddi** | Fullstack development, Authentication, Email notifications |
-| **Dhanush**     | Frontend design, Subscription module, Testing & validation |
-
----
 
 ## 🧪 Testing
 
