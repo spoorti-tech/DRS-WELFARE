@@ -1,4 +1,4 @@
-// Simple script to test email sending (doctor + nominee + family contacts)
+// Simple script to test email sending (doctor + nominee + family contacts) 
 // Usage: set TEST_DOCTOR_EMAIL, TEST_NOMINEE_EMAIL, TEST_FAMILY1_EMAIL, TEST_FAMILY2_EMAIL env vars if you want
 
 const { sendWelcomeEmail } = require('../utils/emailService');
