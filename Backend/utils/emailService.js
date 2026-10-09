@@ -1,4 +1,4 @@
-const nodemailer = require('nodemailer');
+const nodemailer = require('nodemailer'); 
 const util = require('util');
 
 // Prefer pooling and stronger TLS for more reliable connections. Keep credentials in env when possible.
