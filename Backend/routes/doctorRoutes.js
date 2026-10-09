@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('express'); 
 const bcrypt = require('bcryptjs');
 const multer = require('multer');
 const { uploadBuffer } = require('../utils/cloudinaryUpload');
