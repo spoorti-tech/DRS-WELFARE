@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('express'); 
 const bcrypt = require('bcryptjs');
 const Admin = require('../models/Admin');
 const generateToken = require('../utils/generateToken');
