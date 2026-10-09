@@ -1,4 +1,4 @@
-const cloudinary = require('../config/cloudinary');
+const cloudinary = require('../config/cloudinary'); 
 
 function uploadBuffer(buffer, options = {}) {
   return new Promise((resolve, reject) => {
